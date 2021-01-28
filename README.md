@@ -5,7 +5,7 @@
 # Predicting NBA Statistics with a Linear Regression Model
 
 The goal of this project is to use Advanced NBA statistics from one season to predict a specific metric of player performance in the following season.
-(maybe here explain why this project, usefulness to NBA managers/scouts at identifying talent, also with legalization of sports gambling and popularity of fanatasy sports, any sports enthusiast could benefit from a model that can predict player statistics in the future.)
+This project is aimed towards an audience of NBA managers/scouts invested in identifying talent. Additionaly, with the legalization of sports gambling and popularity of fanatasy sports, any sports enthusiast could benefit from this model that can predict player growth or regression.
 
 # The Data
 
